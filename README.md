@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aadil012
-- 👀 I’m interested in multiple IT Technologies which includes Artificial Intelligence, Internet of Things. 
+- 👀 I’m interested in multiple IT Technologies which includes Artificial Intelligence, Internet of Things and more. 
 - 🌱 I’m currently learning Masters of Engineering in Electrical Engineering
 - 💞️ I’m looking to collaborate on computer project
 - 📫 Reach to me through Github.
